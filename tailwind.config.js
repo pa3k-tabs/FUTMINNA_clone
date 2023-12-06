@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: {
+        stakeholders: "#050714",
         futminna: "#800e80",
         bgemp: "#4c2849",
       },
